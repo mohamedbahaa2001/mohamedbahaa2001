@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial intelligence, NLP and Computer Science.
 - 💞️ I’m looking to collaborate on any  projects.
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/mohamed-bahaa-2001/
-, Facebook: https://www.facebook.com/Mohammed.Bahaa1970/ , feel free to contact me :D
+
 - https://www.hackerrank.com/certificates/e838f09f6213 : Python Certification.
 <!---
 mohamedbahaa2001/mohamedbahaa2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
