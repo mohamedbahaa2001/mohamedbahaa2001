@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Bahaa, I am a Student at Computer and Information University.
 - 👀 I’m interested in Programming and Video Games, yes i am a gamer ;) 
-- 🌱 I’m currently learning Artificial intelligence, NLP and Computer Science.
+- 🌱 I’m currently learning Web Development and DevOps as well as AI.
 - 💞️ I’m looking to collaborate on any  projects.
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/mohamed-bahaa-2001/
 
